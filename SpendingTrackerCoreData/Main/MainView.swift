@@ -213,6 +213,7 @@ struct MainView: View {
 //        .environment(\.managedObjectContext, viewContext)
 ////    AddCardForm()
 //}
+//
 
 struct MainView_Previews: PreviewProvider {
     static var previews: some View {
